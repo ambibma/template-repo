@@ -8,7 +8,7 @@
 
 ####  Template Repo
 Designed to be a basic node/npm template for students at epicodus at a specific version
-This Tempalte repo was create with 
+This Template repo was create with 
 node version 16.18.1
 npm version 8.19.2
 
